@@ -59,7 +59,7 @@ $$
 
 ### 项目结构
 
-![](C:\Users\JiangdeTu\Documents\img\20230920.png)
+![](https://github.com/Tjdtec/Tjdtec/blob/main/ImageOnComputer/20230920.png)
 
 其中, 文件夹\data用来存放数据，也就是需要比较的文本文件，tests作为测试模块，来检测功能代码能否达到测试要求, main函数中则存放主要运行的代码。
 
@@ -71,31 +71,31 @@ $$
 
 - 余弦相似角的除0错误
 
-  ![](C:\Users\JiangdeTu\Documents\img\20230920_1.png)
+  ![]((https://github.com/Tjdtec/Tjdtec/blob/main/ImageOnComputer/20230920_1.png)
 
 ### 测试结果
 
 - 对余弦相似度计算模块进行测试
 
-![](C:\Users\JiangdeTu\Documents\img\20230920test.png)
+![](https://github.com/Tjdtec/Tjdtec/blob/main/ImageOnComputer/20230920test.png)
 
 - 对主程序运行测试
 
-![](C:\Users\JiangdeTu\Documents\img\20230920main.png)
+![](https://github.com/Tjdtec/Tjdtec/blob/main/ImageOnComputer/20230920main.png)
 
 保存结果如下：
 
-![](C:\Users\JiangdeTu\Documents\img\20230920result.png)
+![](https://github.com/Tjdtec/Tjdtec/blob/main/ImageOnComputer/20230920result.png)
 
 ### 性能分析
 
 使用pycharm分析对应的统计表:
 
-![](C:\Users\JiangdeTu\Documents\img\信息调用图.png)
+![](https://github.com/Tjdtec/Tjdtec/blob/main/ImageOnComputer/%E4%BF%A1%E6%81%AF%E8%B0%83%E7%94%A8%E5%9B%BE.png)
 
 使用pycharm作出对应的调用图：
 
-<img src="D:\Workplace\PaperCheck\img\PaperCheck.png" style="zoom:50%;" />
+<img src="https://github.com/Tjdtec/Tjdtec/blob/main/ImageOnComputer/PaperCheck.png" style="zoom:50%;" />
 
 ### PSP 表格记录
 
