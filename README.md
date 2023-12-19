@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 🌱 I am a computer science student, currently focusing on the following areas:
 
-- **Programming Language:** I have a strong foundation in C++ programming and have extensive learning and practical experience in it.
+- **Programming Language:** I have a strong foundation in C and Python programming and have extensive learning and practical experience in them.
 - **Artificial Intelligence:** I am highly passionate about the field of artificial intelligence and actively studying and researching related technologies and algorithms.
 - **Mathematical Modeling:** I have a basic understanding of mathematical modeling and aim to apply it to my computer science research.
 
